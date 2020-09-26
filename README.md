@@ -10,4 +10,4 @@ Two parts of the stock price forecasting are selected as a demo here for a simpl
 
 * Part 2 Forecasting (also contains small piece of code related to Vader Sentiment representation)
 
-Algorithm related to web-scrapping, Bog-of-Words and more advnaced parameter tuning will be updated later
+Algorithms for web-scrapping, Bog-of-Words representation and more advnaced parameter tuning will be updated later
